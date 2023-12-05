@@ -1,0 +1,16 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1
+  --out /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/quant2
+  --perm
+  --qassoc
+
+Hostname: c0327
+Working directory: /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis
+Start time: Mon Dec  4 22:36:38 2023
+
+Note: --perm flag deprecated.  Use e.g. "--model perm".
+Error: Unrecognized flag ('--qassoc').
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Mon Dec  4 22:36:38 2023

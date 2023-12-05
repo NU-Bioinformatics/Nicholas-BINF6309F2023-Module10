@@ -1,0 +1,14 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1
+  --cluster
+  --mh
+  --out /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/aac2
+
+Hostname: c0327
+Working directory: /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis
+Start time: Mon Dec  4 22:36:38 2023
+
+Error: --mh/--bd/--mh2 must be used with --within/--family.
+
+End time: Mon Dec  4 22:36:38 2023

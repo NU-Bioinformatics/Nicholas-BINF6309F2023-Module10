@@ -1,0 +1,35 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1
+  --cc
+  --cluster
+  --out /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/version2
+  --ppc 0.01
+
+Hostname: c0327
+Working directory: /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis
+Start time: Mon Dec  4 22:36:38 2023
+
+Note: --cc flag deprecated.  Use "--cluster cc".
+Random number seed: 1701747398
+128067 MB RAM detected; reserving 64033 MB for main workspace.
+83534 variants loaded from .bim file.
+89 people (89 males, 0 females) loaded from .fam.
+89 phenotype values loaded from .fam.
+Using up to 47 threads (change this with --threads).
+Before main variant filters, 89 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.99441.
+83534 variants and 89 people pass filters and QC.
+Among remaining phenotypes, 44 are cases and 45 are controls.
+IBD calculations complete.
+Clustering... done.
+Cluster solution written to
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/version2.cluster1
+,
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/version2.cluster2
+, and
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/version2.cluster3
+.
+
+End time: Mon Dec  4 22:36:38 2023

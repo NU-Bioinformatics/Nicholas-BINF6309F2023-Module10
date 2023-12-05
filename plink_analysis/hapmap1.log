@@ -1,0 +1,39 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --file /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1
+  --make-bed
+  --out /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1
+
+Hostname: c0327
+Working directory: /scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis
+Start time: Mon Dec  4 22:36:36 2023
+
+Random number seed: 1701747396
+128067 MB RAM detected; reserving 64033 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (83534 variants, 89 people).
+--file:
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1-temporary.bed
++
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1-temporary.bim
++
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1-temporary.fam
+written.
+83534 variants loaded from .bim file.
+89 people (89 males, 0 females) loaded from .fam.
+89 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 89 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.99441.
+83534 variants and 89 people pass filters and QC.
+Among remaining phenotypes, 44 are cases and 45 are controls.
+--make-bed to
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1.bed
++
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1.bim
++
+/scratch/chevalier.n/Nicholas-BINF6309F2023-Module10/plink_analysis/hapmap1.fam
+... done.
+
+End time: Mon Dec  4 22:36:36 2023
