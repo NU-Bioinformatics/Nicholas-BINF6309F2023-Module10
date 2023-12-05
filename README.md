@@ -3,9 +3,9 @@
 ## Using PLINK to analyze example data: randomly selected genotypes (approximately 80,000 autosomal SNPs) from the 89 Asian HapMap individuals. A phenotype has been simulated based on the genotype at one SNP. 
 ## Walks through using PLINK to work with the data, using a range of features: data management, summary statistics, population stratification and basic association analysis.
 
-## clone repo to the scratch directory (/scratch/chevalier.n)
+## clone repo to the home directory and copy bash scripts to scratch directory (/scratch/chevalier.n)
 ## Script to run in scratch directory: sbatch sbatch_plink.sh /home/chevalier.n/BINF6309/Nicholas-BINF6309F2023-Module10/
-### can also do: sbatch sbatch_plink.sh /scratch/chevalier.n/BINF6309/Nicholas-BINF6309F2023-Module10/
+### Outputs in /home/chevalier.n/BINF6309/Nicholas-BINF6309F2023-Module10/plink_analysis
 
 # 2 bash scripts inside sbatch_plink.sh:
 ## 1) getExamples.sh - This script uses wget to download the input files found at https://zzz.bwh.harvard.edu/plink/hapmap1.zipLinks to scratch directory. Then unzip the resulting hapmap1.zip file in plink_analysis directory.
